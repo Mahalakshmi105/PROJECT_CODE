@@ -68,5 +68,5 @@ It shows the project in action and helps you understand what it does and how it 
 
 ## **🏆Accomplishments:**
 
-We are proud to share that the Auto-Sketching of SIR C V Raman portrait project won 1st place at the *[Project Expo/National Science Day Celebration 2023]!
+We are proud to share that the Auto-Sketching of SIR C V Raman portrait project won 1st place at the **[Project Expo/National Science Day Celebration 2023]!**
 This achievement reflects the hard work and innovation that went into developing this project.
